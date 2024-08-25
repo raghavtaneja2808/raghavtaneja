@@ -49,4 +49,14 @@ h1{
 }
 #buddy_img{
  margin-bottom: 0;
+ padding-right: 18px;
+}
+#snapchat{
+    position: absolute;
+    top: 1px;
+    right: 0px;
+    
+}
+#snapchat:hover{
+    background-color:rgb(134, 11, 15)
 }
